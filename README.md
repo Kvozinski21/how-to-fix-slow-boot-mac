@@ -61,6 +61,9 @@ Impact: Many slowdowns resolve automatically
 Steps:
 
 1. Open **Activity Monitor**
+
+![activitymonitor](https://github.com/user-attachments/assets/fe73499b-d2cb-4f2d-9926-9dbba69a654c)
+
 2. Sort by CPU usage
 
 Look for:
@@ -134,6 +137,11 @@ Steps:
 ### 7. Free Up Storage Space
 
 After updates, storage may be reduced.
+![about](https://github.com/user-attachments/assets/75a0aeb9-8087-4774-85cd-90379cfdb276)
+
+![storage](https://github.com/user-attachments/assets/d57b9682-a484-42b2-a76c-71f21d369256)
+
+![storagenew](https://github.com/user-attachments/assets/b19c1067-2fb3-4a0f-8305-9afbee2d6b7f)
 
 Fix:
 
