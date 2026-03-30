@@ -1,4 +1,4 @@
-# Why Is My Mac So Slow? Best Ways to Fix a Slow Mac
+
 # Why Is My Mac So Slow? Best Ways to Fix a Slow Mac 
 
 ## Introduction
