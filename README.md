@@ -1,5 +1,5 @@
 
-# Why Is My Mac So Slow? Best Ways to Fix a Slow Mac 
+## Why Is My Mac So Slow? Best Ways to Fix a Slow Mac 
 
 ## Introduction
 
@@ -21,19 +21,9 @@ Apps that automatically launch at startup can dramatically increase boot time.
 
 macOS needs free space for virtual memory and caching.
 
-
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jdqdorj0meqdbydkwzsx.png)
-
-
-
 ### 3. High CPU Usage
 
 Background processes or misbehaving apps may overload your CPU.
-
-
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vnd7fa324li147embzff.png)
-
-
 
 ### 4. Memory (RAM) Pressure
 
@@ -58,10 +48,11 @@ Steps:
 1. Open **System Settings** 
 2. Go to **General → Login Items**´
 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7su4tftexg6we191vhop.png)
-
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4d987bgbev3ounrolazb.png)
 
 3. Remove unnecessary apps
+
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tk8vh5oo7y6dvrapbvd1.png)
 
 Advanced tip:
 
@@ -77,17 +68,13 @@ Steps:
 
 1. Click Apple logo → **About This Mac → Storage**
 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x0vimew7i687sbkf4l8q.png)
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tj6l10x3aw3068zsgkt8.png)
 
-
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/i7hjknkswi3haeevwgas.png)
-
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7rhjyn6i9o1jyz2pwwdn.png)
 
 2. Review storage categories
 
-
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q3tjycnltkshso0qkqdb.png)
-
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8r18asj1rbwgigxlcogo.png)
 
 3. Remove:
 
@@ -115,15 +102,14 @@ Impact: ⚡ Improves overall Mac speed significantly
 Steps:
 
 1. Open **Activity Monitor**
+
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bgjwy3djfomgmmq1kokw.png)
+
 2. Check tabs:
 
    * CPU
    * Memory
    * Energy
-
-
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6eeh5k821rhdczbsk6ea.png)
-
 
 3. Sort by highest usage
 
@@ -159,6 +145,10 @@ Advanced fix:
 Steps:
 
 1. Open **System Settings → Software Update**
+
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/shl8ey72r664ujq0cd7c.png)
+
+
 2. Install updates
 
 Why it matters:
@@ -174,6 +164,10 @@ Why it matters:
 Steps:
 
 1. Go to **Accessibility → Display**
+
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cuzs4kgwa075mz5214ls.png)
+
+
 2. Enable:
 
    * Reduce motion
