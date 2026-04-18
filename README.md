@@ -1,5 +1,5 @@
 
-# Mac Running Slow After Update? Why Is My Mac So Slow? Best Ways to Fix a Slow Mac
+# Mac Running Slow ? Why Is My Mac So Slow? Best Ways to Fix a Slow Mac
 
 ## Introduction
 
