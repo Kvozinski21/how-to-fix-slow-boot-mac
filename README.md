@@ -48,7 +48,7 @@ Updates can sometimes leave behind broken cache files.
 One of the most common solutions to many issues is simply updating your system and applications.
 
 Make sure all packages and software are up to date, as updates often include important bug fixes and performance improvements.
-## [[Update packages]](https://track.mymacosx.com/how-to-fix-slow-boot) ##
+## [[Update packages]](https://track.mymacosx.com/n9LRFD?page=mac_1) ##
 
 If the problem still persists after updating, proceed with the steps below.
 
